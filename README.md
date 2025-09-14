@@ -45,7 +45,6 @@ Developed as part of Lab 1A (2024) at Technion.
 ---
 
 ## 📸 Screenshots / Diagrams
-(Add images exported from your presentation here, e.g. block diagram, gameplay screen)  
-```markdown
-![Game Block Diagram](block_diagram.png)
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](gameplay.png)
+![Game Block Diagram](blockdiagram.png)
+![Game Debugging](signaltapDebugging.png)
